@@ -7,7 +7,8 @@ Se irán subiendo nuevos ejercicios diariamente para mejorar mi lógica de progr
 
 ## Ejercicios
 
-1. **ejercicio1.js**: Realizar tabla de multiplicar completa con un número elegido por el usuario.
+1. Realizar tabla de multiplicar completa con un número elegido por el usuario.
+2. Comprobación de si una palabra es palíndroma e invertir un número.
 
 *(Se añadirán más ejercicios a medida que se vayan completando)*
 
