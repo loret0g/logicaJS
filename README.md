@@ -2,8 +2,8 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Este repositorio contiene ejercicios de lógica de programación, resueltos en JavaScript. <br>
-Se irán subiendo nuevos ejercicios diariamente para mejorar mi lógica de programación e ir profundizando en los conceptos de programación.
+Este repositorio incluye una colección de ejercicios de lógica de programación resueltos en JavaScript. <br>
+Se añadirán nuevos desafíos diariamente para seguir mejorando y profundizando en los conceptos de programación.
 
 ## Ejercicios
 
