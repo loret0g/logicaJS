@@ -9,7 +9,7 @@ Se añadirán nuevos desafíos diariamente para seguir mejorando y profundizando
 
 1. Realizar tabla de multiplicar completa con un número elegido por el usuario.
 2. Comprobación de si una palabra es palíndroma e invertir un número.
-3. Buscar una palabra y devolver cuantas veces aparece en una frase
+3. Buscar una palabra y devolver cuantas veces aparece en una frase.
 
 *(Se añadirán más ejercicios a medida que se vayan completando)*
 
